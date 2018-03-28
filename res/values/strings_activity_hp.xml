@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="error_invalid_conductivity">error, 0&#8211;1000</string>
+    <string name="error_invalid_ph">error, 0&#8211;14</string>
+    <string name="error_invalid_moisture">error, 0&#8211;100</string>
+    <string name="error_invalid_oxygen">error, 0-100</string>
+	 <string name="conductivity">Conductivity (uS) :</string>
+    <string name="pH">pH :</string>
+    <string name="moisture">Moisture (%) :</string>
+    <string name="dissolved">Dissolved Oxygen (ppm) :</string>
+</resources>

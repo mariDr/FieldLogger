@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">FieldLogger</string>
+    <string name="profile">Profile</string>
+    <string name="title_activity_details_fragment">DetailsFragment</string>
+    <string name="hp1">HP 1</string>
+    <string name="hp2">HP 2</string>
+    <string name="fo">FO</string>
+    <string name="mz">MZ</string>
+    <string name="control">Control</string>
+    <string name="save">Save Entries</string>
+    <string name="send">Send All Entries</string>
+    <string name="save_profile">Save Profile</string>
+    <string name="cancel">Cancel Profile</string>
+    <string name="title_activity_display_list">FieldLogger</string>
+
+</resources>

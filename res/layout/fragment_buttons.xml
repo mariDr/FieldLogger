@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/LinearLayout1"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.marikris.fieldlogger.MainActivity" >
+
+    <Button
+        android:id="@+id/hp1button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/hp1" />
+
+    <Button
+        android:id="@+id/hp2button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/hp2" />
+
+    <Button
+        android:id="@+id/fobutton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/fo" />
+
+    <Button
+        android:id="@+id/mzbutton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/mz" />
+
+    <Button
+        android:id="@+id/controlbutton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/control" />
+
+</LinearLayout>
